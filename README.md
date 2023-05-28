@@ -1,14 +1,15 @@
-# React Native Jsearch
-
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+# React Native JSearch
 
 ## 🚀 How to use
 
 ```sh
-npx create-expo-app -e with-router
+npm start
 ```
 
 ## 📝 Notes
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+- Get your api key from https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/
+- Add your API key to .env file in root
+```
+RAPID_API_KEY={{YOUR KEY}}
+```
